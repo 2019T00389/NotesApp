@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "718783387829",
+    "project_id": "noteapp-9b669",
+    "storage_bucket": "noteapp-9b669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718783387829:android:caa5221b2ffde738ac06fc",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718783387829-8pdvj7fnvnrg5509f9l06sp5avhj9s5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7u8Y_8aXsysz9KQuRuAEW85rT2N2Gnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718783387829-8pdvj7fnvnrg5509f9l06sp5avhj9s5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718783387829:android:f90806b0f37e9182ac06fc",
+        "android_client_info": {
+          "package_name": "com.example.notesapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718783387829-8pdvj7fnvnrg5509f9l06sp5avhj9s5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7u8Y_8aXsysz9KQuRuAEW85rT2N2Gnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718783387829-8pdvj7fnvnrg5509f9l06sp5avhj9s5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
